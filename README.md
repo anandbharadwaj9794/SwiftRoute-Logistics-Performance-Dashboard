@@ -233,18 +233,23 @@ Average rating given by customers after delivery completion.
 
 #  Key Insights from the Dashboard
 The analysis of logistics data revealed several operational insights.
+
 **1. Delivery Performance**
 - The on-time delivery rate helps identify operational efficiency.
 - Lower rates indicate possible delays in hubs, drivers, or vehicle availability.
+  
 **2. Hub Capacity Utilization**
 - Some hubs process significantly more orders compared to their capacity.
 - This may lead to operational bottlenecks and delivery delays.
+  
 **3. Driver Performance**
 - Drivers with higher experience tend to receive better customer ratings.
 - Some drivers contribute to a higher number of delayed deliveries.
+  
 **4. Fleet Utilization**
 - Certain vehicle models handle a higher share of deliveries.
 - Older vehicles tend to have a higher number of breakdowns.
+  
 **5. Demand Trends**
 - Monthly order trends show fluctuations in delivery demand.
 - These trends can help logistics companies plan workforce and fleet allocation.
